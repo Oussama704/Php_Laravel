@@ -29,9 +29,6 @@
 		<div class="form-group">
             <button type="submit" class="btn btn-success btn-lg btn-block">Submit</button>
         </div>
-        <div class="form-group">
-            <button type="submit" class="btn btn-success btn-lg btn-block">Login with facebook</button>
-        </div>
     </form>
 	<div class="text-center">You don't have an account <a href="register">Sign in</a></div>
 </div>
